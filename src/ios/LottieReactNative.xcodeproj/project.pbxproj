@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 52;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -37,6 +37,7 @@
 		6E31134222B3A73000690A5B /* LRNAnimationViewManagerObjC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LRNAnimationViewManagerObjC.m; sourceTree = "<group>"; };
 		74E4DD2124F9656D00F271AF /* hexStringToColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hexStringToColor.swift; sourceTree = "<group>"; };
 		85ABD46724D07DFD0099C9BD /* libLottieReactNativeMacOS.dylib */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.dylib"; includeInIndex = 0; path = libLottieReactNativeMacOS.dylib; sourceTree = BUILT_PRODUCTS_DIR; };
+		8F2B936C2B96ED1E00F82480 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 		11FA5C481C4A1296003AC2EE = {
 			isa = PBXGroup;
 			children = (
+				8F2B936C2B96ED1E00F82480 /* PrivacyInfo.xcprivacy */,
 				11FA5C531C4A1296003AC2EE /* LottieReactNative */,
 				11FA5C521C4A1296003AC2EE /* Products */,
 				8435B7FF1E38377000CD1749 /* Frameworks */,
